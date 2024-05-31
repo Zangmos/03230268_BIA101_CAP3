@@ -1,3 +1,14 @@
+# Github Repo link
+# Name - Sangay Zangmo
+# Section - B
+# Student ID Number - 03230268
+
+# REFERENCES
+# https://blog.hubspot.com/website/python-enumerate
+# https://stackoverflow.com/questions/25429226/extract-multi-digit-numbers-from-a-string-in-python-3
+# https://www.geeksforgeeks.org/python-extract-numbers-from-string/
+# https://www.tutorialspoint.com/How-to-extract-numbers-from-a-string-in-Python
+
 file_path = '268.txt'
 
 # Function to extract the first and last digits from a line
